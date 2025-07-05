@@ -1,4 +1,4 @@
-Adventure Bot TOS & Privacy & Policy (simplified)
+KanaBot TOS & Privacy & Policy (simplified)
 
 Rules
 1. Do not abuse bugs, report them to @pqjq
