@@ -19,13 +19,16 @@ KanaBot uses data provided to process commands and power server management featu
 - Some Message Content and user IDs are also stored in the [support server](https://discord.gg/7zZjkZH7nc) for logging reasons only, where only the owner has access to.
 
 ## 4. Third Party Services
-KanaBot will never sell nor share your data across third party services. All of your data is kept privately in our database, where only you and the owner has access to.
+KanaBot will never sell nor share your data across third party services. All of your data is kept privately in our database, where only you and the owner has access.
 
 ## 5. Children's Policy
 KanaBot is not intended for individuals under 13. If it is discovered that an underaged user has interacted with our bot, all of their data will be wiped.
 
-## Data Deletion Request
+## 6. Data Deletion & Opt-Out Request
 If for any reason you wish for us to no longer hold your data, simply join our [support server](https://discord.gg/7zZjkZH7nc) to DM @pqjq to initiate a data deletion request, and every row containing your user ID will be erased. If you also wish to opt out of everything, all we will do is store your Discord generated user ID in our blacklist list so KanaBot can completely ignore you. (This excludes our server management and auto-moderation systems like honeypots and frozen nicknames)
+
+## 7. Changes to our Privacy Policy
+We may change this privacy policy time to time. If we do update our privacy policy, the "Last Updated" at the top will be updated, and we will make an announcement in our support server.
 
 ## Contact
 For any questions, feedback, or requests related to KanaBot, join our [support server](https://discord.gg/7zZjkZH7nc) and shoot @pqjq a DM!
